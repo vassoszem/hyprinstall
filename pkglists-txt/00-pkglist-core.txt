@@ -1,0 +1,11 @@
+git
+hyprland
+kitty
+micro
+nvidia-utils
+qt5-wayland
+qt6-wayland
+sddm
+smartmontools
+xdg-desktop-portal-gtk
+xdg-desktop-portal-hyprland
