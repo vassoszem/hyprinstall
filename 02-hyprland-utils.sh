@@ -10,6 +10,7 @@ sudo pacman -S --noconfirm --needed alsa-utils \
   fzf \
   grub-btrfs \
   inotify-tools \
+  lazygit \
   libappindicator-gtk3 \
   man-db \
   man-pages \
