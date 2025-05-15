@@ -93,6 +93,7 @@ sudo pacman -S --noconfirm --needed gtk-engine-murrine \
 
 # Install AUR packages
 yay -S bibata-cursor-git \
+  brave-bin \
   catppuccin-gtk-theme-mocha \
   dropbox \
   floorp-bin \

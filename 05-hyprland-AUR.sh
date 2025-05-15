@@ -5,6 +5,7 @@ sudo pacman -Syu
 
 # Install AUR packages
 yay -S bibata-cursor-git \
+  brave-bin \
   catppuccin-gtk-theme-mocha \
   dropbox \
   floorp-bin \
