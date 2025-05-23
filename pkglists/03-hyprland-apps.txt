@@ -1,0 +1,10 @@
+celluloid
+darktable
+displaycal
+galculator
+gnome-disk-utility
+gthumb
+libreoffice-fresh
+neovim
+ristretto
+transmission-gtk
