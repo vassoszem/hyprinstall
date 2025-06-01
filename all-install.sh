@@ -40,6 +40,7 @@ sudo pacman -S --noconfirm --needed alsa-utils \
   man-db \
   man-pages \
   npm \
+  opencl-nvidia \
   openssh \
   pacman-contrib \
   pavucontrol \
