@@ -13,6 +13,7 @@ libappindicator-gtk3
 man-db
 man-pages
 npm
+opencl-nvidia
 openssh
 pacman-contrib
 pavucontrol
