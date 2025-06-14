@@ -37,6 +37,7 @@ sudo pacman -S --noconfirm --needed alsa-utils \
   inotify-tools \
   lazygit \
   libappindicator-gtk3 \
+  luarocks \
   man-db \
   man-pages \
   npm \

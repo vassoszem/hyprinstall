@@ -10,6 +10,7 @@ inetutils
 inotify-tools
 lazygit
 libappindicator-gtk3
+luarocks
 man-db
 man-pages
 npm
