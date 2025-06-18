@@ -31,6 +31,7 @@ tumbler
 xarchiver
 xdg-user-dirs
 alsa-utils
+bat
 eza
 fastfetch
 fd

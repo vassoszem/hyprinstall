@@ -2,6 +2,7 @@
 
 # Install utilities
 sudo pacman -S --noconfirm --needed alsa-utils \
+  bat \
   eza \
   fastfetch \
   fd \
