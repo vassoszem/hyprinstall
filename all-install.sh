@@ -59,6 +59,7 @@ sudo pacman -S --noconfirm --needed alsa-utils \
   stow \
   unzip \
   wget \
+  yazi \
   zsh
 
 # Install applications

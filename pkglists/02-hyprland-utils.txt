@@ -32,4 +32,5 @@ starship
 stow
 unzip
 wget
+yazi
 zsh
