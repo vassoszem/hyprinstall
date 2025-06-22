@@ -32,6 +32,7 @@ xarchiver
 xdg-user-dirs
 alsa-utils
 bat
+bat-extras
 eza
 fastfetch
 fd
