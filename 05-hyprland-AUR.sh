@@ -8,7 +8,6 @@ yay -S bibata-cursor-git \
   btrfs-assistant \
   catppuccin-gtk-theme-mocha \
   dropbox \
-  floorp-bin \
   papirus-folders-catppuccin-git \
   wlogout
 

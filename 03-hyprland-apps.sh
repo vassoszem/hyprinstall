@@ -4,6 +4,7 @@
 sudo pacman -S --noconfirm --needed celluloid \
   darktable \
   displaycal \
+  firefox \
   galculator \
   gnome-disk-utility \
   gthumb \

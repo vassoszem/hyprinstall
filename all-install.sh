@@ -66,6 +66,7 @@ sudo pacman -S --noconfirm --needed alsa-utils \
 sudo pacman -S --noconfirm --needed celluloid \
   darktable \
   displaycal \
+  firefox \
   galculator \
   gnome-disk-utility \
   gthumb \
@@ -90,7 +91,6 @@ yay -S bibata-cursor-git \
   btrfs-assistant \
   catppuccin-gtk-theme-mocha \
   dropbox \
-  floorp-bin \
   papirus-folders-catppuccin-git \
   wlogout
 
