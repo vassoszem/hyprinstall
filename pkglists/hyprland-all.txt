@@ -42,6 +42,7 @@ git
 grub-btrfs
 inetutils
 inotify-tools
+jq
 lazygit
 libappindicator-gtk3
 luarocks
@@ -61,6 +62,7 @@ ripgrep
 rofi-wayland
 snapper
 snap-pac
+socat
 starship
 stow
 unzip

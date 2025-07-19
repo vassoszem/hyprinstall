@@ -37,6 +37,7 @@ sudo pacman -S --noconfirm --needed alsa-utils \
   grub-btrfs \
   inetutils \
   inotify-tools \
+  jq \
   lazygit \
   libappindicator-gtk3 \
   luarocks \
@@ -56,6 +57,7 @@ sudo pacman -S --noconfirm --needed alsa-utils \
   rofi-wayland \
   snapper \
   snap-pac \
+  socat \
   starship \
   stow \
   unzip \
