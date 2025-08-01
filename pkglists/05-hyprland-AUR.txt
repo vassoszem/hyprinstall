@@ -1,6 +1,4 @@
 bibata-cursor-git
 btrfs-assistant
-catppuccin-gtk-theme-mocha
 dropbox
-papirus-folders-catppuccin-git
 wlogout

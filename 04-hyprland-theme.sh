@@ -7,7 +7,6 @@ sudo pacman -S --noconfirm --needed gtk-engine-murrine \
   nwg-look \
   qt5ct \
   qt6ct \
-  ttf-fira-sans \
   ttf-jetbrains-mono-nerd \
   ttf-liberation
 
