@@ -1,5 +1,4 @@
 cliphist
-dunst
 git
 hypridle
 hyprland
@@ -7,7 +6,7 @@ hyprlock
 hyprpaper
 hyprpicker
 kitty
-micro
+mako
 nvidia-utils
 qt5-wayland
 qt6-wayland
