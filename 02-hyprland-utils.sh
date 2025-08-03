@@ -2,6 +2,7 @@
 
 # Install utilities
 sudo pacman -S --noconfirm --needed alsa-utils \
+  bat \
   ddcutil \
   eza \
   fastfetch \
@@ -22,7 +23,6 @@ sudo pacman -S --noconfirm --needed alsa-utils \
   opencl-nvidia \
   openssh \
   pacman-contrib \
-  pavucontrol \
   plocate \
   polkit-gnome \
   qt5-quickcontrols \
@@ -37,6 +37,7 @@ sudo pacman -S --noconfirm --needed alsa-utils \
   stow \
   unzip \
   wget \
+  wiremix \
   zsh
 
 # Reboot

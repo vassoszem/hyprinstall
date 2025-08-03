@@ -1,4 +1,5 @@
 alsa-utils
+bat
 ddcutil
 eza
 fastfetch
@@ -19,7 +20,6 @@ npm
 opencl-nvidia
 openssh
 pacman-contrib
-pavucontrol
 plocate
 polkit-gnome
 qt5-quickcontrols
@@ -34,4 +34,5 @@ starship
 stow
 unzip
 wget
+wiremix
 zsh
