@@ -17,7 +17,6 @@ sudo pacman -S --noconfirm --needed cliphist \
   nvidia-utils \
   qt5-wayland \
   qt6-wayland \
-  sddm \
   smartmontools \
   waybar \
   xdg-desktop-portal-gtk \
