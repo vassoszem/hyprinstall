@@ -79,6 +79,7 @@ ristretto
 transmission-gtk
 gtk-engine-murrine
 kvantum
+kvantum-qt5
 noto-fonts-emoji
 nwg-look
 qt5ct
