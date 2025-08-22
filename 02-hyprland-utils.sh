@@ -35,6 +35,7 @@ sudo pacman -S --noconfirm --needed alsa-utils \
   socat \
   starship \
   stow \
+  tree \
   unzip \
   wget \
   wiremix \

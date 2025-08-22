@@ -32,6 +32,7 @@ snap-pac
 socat
 starship
 stow
+tree
 unzip
 wget
 wiremix
