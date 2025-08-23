@@ -10,6 +10,7 @@ sudo pacman -S --noconfirm --needed alsa-utils \
   firewalld \
   fzf \
   git \
+  go \
   grub-btrfs \
   inetutils \
   inotify-tools \

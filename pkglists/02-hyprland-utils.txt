@@ -7,6 +7,7 @@ fd
 firewalld
 fzf
 git
+go
 grub-btrfs
 inetutils
 inotify-tools
