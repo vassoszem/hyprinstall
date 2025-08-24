@@ -37,7 +37,6 @@ fd
 firewalld
 fzf
 git
-go
 grub-btrfs
 inetutils
 inotify-tools
@@ -86,12 +85,8 @@ noto-fonts-emoji
 nwg-look
 qt5ct
 qt6ct
-ttf-fira-sans
 ttf-jetbrains-mono-nerd
 ttf-liberation
 bibata-cursor-git
 btrfs-assistant
-catppuccin-gtk-theme-mocha
 dropbox
-papirus-folders-catppuccin-git
-wlogout

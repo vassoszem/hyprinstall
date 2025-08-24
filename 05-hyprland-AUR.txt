@@ -1,4 +1,3 @@
 bibata-cursor-git
 btrfs-assistant
 dropbox
-wlogout
