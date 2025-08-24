@@ -87,6 +87,4 @@ qt5ct
 qt6ct
 ttf-jetbrains-mono-nerd
 ttf-liberation
-bibata-cursor-git
-btrfs-assistant
-dropbox
+ttf-roboto
