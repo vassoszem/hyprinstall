@@ -20,6 +20,7 @@ npm
 opencl-nvidia
 openssh
 pacman-contrib
+pavucontrol
 plocate
 polkit-gnome
 qt5-quickcontrols
@@ -35,5 +36,4 @@ stow
 tree
 unzip
 wget
-wiremix
 zsh
