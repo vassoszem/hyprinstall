@@ -1,5 +1,7 @@
 bibata-cursor-git
+brave-bin
 btrfs-assistant
 dropbox
+floorp-bin
 otf-space-grotesk
 ttf-rubik-vf

@@ -11,6 +11,7 @@ nvidia-utils
 qt5-wayland
 qt6-wayland
 smartmontools
+uwsm
 waybar
 xdg-desktop-portal-gtk
 xdg-desktop-portal-hyprland
@@ -70,7 +71,6 @@ zsh
 celluloid
 darktable
 displaycal
-firefox
 galculator
 gnome-disk-utility
 gthumb
