@@ -1,5 +1,4 @@
 bibata-cursor-git
-brave-bin
 btrfs-assistant
 dropbox
 floorp-bin

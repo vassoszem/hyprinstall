@@ -69,6 +69,7 @@ unzip
 wget
 zsh
 celluloid
+chromium
 darktable
 displaycal
 galculator

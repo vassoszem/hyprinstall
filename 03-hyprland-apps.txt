@@ -1,4 +1,5 @@
 celluloid
+chromium
 darktable
 displaycal
 galculator
