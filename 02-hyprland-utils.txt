@@ -10,6 +10,7 @@ git
 grub-btrfs
 inetutils
 inotify-tools
+inxi
 jq
 lazygit
 libappindicator-gtk3
