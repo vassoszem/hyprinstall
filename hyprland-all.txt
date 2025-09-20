@@ -1,3 +1,4 @@
+alacritty
 cliphist
 git
 hypridle
@@ -6,11 +7,13 @@ hyprlock
 hyprpaper
 hyprpicker
 kitty
+libnewt
 mako
 nvidia-utils
 qt5-wayland
 qt6-wayland
 smartmontools
+uwsm
 waybar
 xdg-desktop-portal-gtk
 xdg-desktop-portal-hyprland
