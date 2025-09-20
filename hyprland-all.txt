@@ -65,7 +65,6 @@ ripgrep
 rofi
 snapper
 snap-pac
-socat
 starship
 stow
 tree
