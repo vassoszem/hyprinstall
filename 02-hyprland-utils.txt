@@ -13,7 +13,6 @@ inetutils
 inotify-tools
 inxi
 jq
-lazygit
 libappindicator-gtk3
 luarocks
 man-db
